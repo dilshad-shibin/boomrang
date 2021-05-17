@@ -23,7 +23,7 @@
 <body>
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section>
 <div class="bannersec">
@@ -196,13 +196,13 @@ Served</h5>
 <div id="cas-slider">
 <div class="item ">
 <div class="casslider_box">
-<img src="images/cas/1.jpg">
+<img src="images/cas/2.jpg">
 </div>
 </div>
   
 <div class="item ">
 <div class="casslider_box">
-<img src="images/cas/1.jpg">
+<img src="images/cas/3.jpg">
 </div>
 </div>
                             
@@ -473,7 +473,7 @@ dummy text ever since the 1500s, when an unknown</p>
 </div>    
 </section>
     
- <?php include 'footer.php'?>  
+ <?php include 'footer.php'; ?>  
     
 </div> <!-- bodywrapper-->
     

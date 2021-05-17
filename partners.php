@@ -45,6 +45,43 @@
 <div class="partners_page">
 <div class="container">
 <div class="row">
+
+<div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
+<a class="partlogobox" href="https://skilora.com/" target="_blank">
+<div class="partlogobox_in">
+<div class="palogoimg palogoimg-bg2"><img src="images/case-study/partners/skilora-new.png"> </div>  
+<div class="palogotitle"><h4>Skilora</h4></div>  
+</div>
+</a>
+</div>
+
+<div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
+<a class="partlogobox" href="https://www.sesametechnologies.net/" target="_blank">
+<div class="partlogobox_in">
+<div class="palogoimg"><img src="images/case-study/partners/se-same.png"> </div>  
+<div class="palogotitle"><h4>Sesame</h4></div>  
+</div>
+</a>
+</div>
+
+<div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+<a class="partlogobox" href="https://primalcodes.com/" target="_blank">
+<div class="partlogobox_in">
+<div class="palogoimg"><img src="images/case-study//partners/primal-codes.png"> </div>  
+<div class="palogotitle"><h4>Primalcodes</h4></div>  
+</div>
+</a>
+</div>
+
+<div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
+<a class="partlogobox" href="https://www.seamedia.in/" target="_blank">
+<div class="partlogobox_in">
+<div class="palogoimg palogoimg-bg"><img src="images/case-study/partners/sea-media.png"> </div>  
+<div class="palogotitle"><h4>Seamedia</h4></div>  
+</div>
+</a>
+</div>
+
 <div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s">
 <a class="partlogobox " href="https://aiderpro.com/" target="_blank">
 <div class="partlogobox_in">
@@ -54,41 +91,13 @@
 </a>
 </div>
 
-    <div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-<a class="partlogobox" href="https://primalcodes.com/" target="_blank">
-<div class="partlogobox_in">
-<div class="palogoimg"><img src="images/case-study//partners/primal-codes.png"> </div>  
-<div class="palogotitle"><h4>Primalcodes</h4></div>  
-</div>
-</a>
-</div>
     
-    <div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-<a class="partlogobox" href="https://www.seamedia.in/" target="_blank">
-<div class="partlogobox_in">
-<div class="palogoimg palogoimg-bg"><img src="images/case-study/partners/sea-media.png"> </div>  
-<div class="palogotitle"><h4>Seamedia</h4></div>  
-</div>
-</a>
-</div>
     
- <div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-<a class="partlogobox" href="https://www.sesametechnologies.net/" target="_blank">
-<div class="partlogobox_in">
-<div class="palogoimg"><img src="images/case-study/partners/se-same.png"> </div>  
-<div class="palogotitle"><h4>Sesame</h4></div>  
-</div>
-</a>
-</div>
+    
+    
+ 
 
-<div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-<a class="partlogobox" href="https://skilora.com/" target="_blank">
-<div class="partlogobox_in">
-<div class="palogoimg"><img src="images/case-study/partners/skilora-new.png"> </div>  
-<div class="palogotitle"><h4>Skilora</h4></div>  
-</div>
-</a>
-</div>
+
     
    
     
