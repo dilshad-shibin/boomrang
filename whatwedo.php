@@ -76,74 +76,74 @@
         </div>
         <div class="row">
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/fb.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/fb2-removebg-preview.png" alt="">
                     <h5>Facebook Marketing</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/insta.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/insta2-removebg-preview.png" alt="">
                     <h5>Instagram Ads</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/google.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/google2-removebg-preview.png" alt="">
                     <h5>Facebook Marketing</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/serach.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/search2-removebg-preview.png" alt="">
                     <h5>search Engine Optimization</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/email.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/email2-removebg-preview.png" alt="">
                     <h5>email Marketing</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/youtube.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/utube2-removebg-preview.png" alt="">
                     <h5>youtube ads</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/hotstar.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/hotstar2-removebg-preview.png" alt="">
                     <h5>hotstar ads</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/amazon.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/amazon-2-removebg-preview.png" alt="">
                     <h5>Amazon Ads</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
+                <div class="grow-box grow-box2">
                     <img src="images/what-we-do/sales/flip-ads.png" alt="">
                     <h5>Flipkart Ads</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/snapchat.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/snap.png" alt="">
                     <h5>Snapchat Ads</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/Linkedin-Logo.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/linkedin.png" alt="">
                     <h5>Linkedin Ads</h5>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div class="grow-box">
-                    <img src="images/what-we-do/sales/google-shopping.png" alt="">
+                <div class="grow-box grow-box2">
+                    <img src="images/what-we-do/sales/google-shop2-removebg-preview.png" alt="">
                     <h5>Shopping Ads</h5>
                 </div>
             </div>
