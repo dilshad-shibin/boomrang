@@ -47,9 +47,9 @@
 <div class="row">
 
 <div class="col-lg-3 col-sm-6 display_flex wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-<a class="partlogobox" href="https://skilora.com/" target="_blank">
+<a class="partlogobox" href="https://skiloratech.com/" target="_blank">
 <div class="partlogobox_in">
-<div class="palogoimg palogoimg-bg2"><img src="images/case-study/partners/skilora-new.png"> </div>  
+<div class="palogoimg"><img src="images/case-study/partners/skilora.png"> </div>  
 <div class="palogotitle"><h4>Skilora</h4></div>  
 </div>
 </a>
@@ -89,23 +89,38 @@
 <div class="palogotitle"><h4>Aiderpro</h4></div>  
 </div>
 </a>
+</div>    
 </div>
-
-    
-    
-    
-    
- 
+</div>
+</div>
+</section> 
 
 
-    
-   
-    
-</div>
-</div>
-</div>
-</section>    
- 
+<!-- want to partner -->
+ <section>
+    <div class="partner-bg">
+        <div class="container">
+            <div class="row  align-items-center">
+                <div class="col-lg-6">
+                    <div class="partner-img">
+                        <img src="images/case-study/partners/partner-left.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6"> 
+                    <div class="want-to-partner">
+                        <h3>want to <br> partner with us</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur doloribus assumenda obcaecati cumque explicabo soluta sit. Laboriosam deleniti voluptas ad quod dolor aut ut eaque.</p>
+                        <a href="contact.php" class="theme_btn btn_grad mr-2">Contact</a>
+                        <a href="#" data-toggle="modal" data-target="#pop_enquiryform" class="theme_btn btn_grad">Enquire Now</a>
+                    </div>
+                </div>
+            </div>        
+        </div>
+    </div>
+ </section>
+
+
+
      <?php include 'footer.php'; ?>  
 
 </div> <!-- bodywrapper-->
